@@ -191,11 +191,14 @@
         
         
         
+- Добавляем интерфейс для внутриигровых покупок
+![image](https://github.com/Snoubort/Game-Sevases-Lab6/blob/main/MatForReadMe/InternalBuy.PNG)
+![image](https://github.com/Snoubort/Game-Sevases-Lab6/blob/main/MatForReadMe/InternalBuy2.PNG)
+
 ## Задание 2
 ### Добавить в приложение интерфейс для вывода статуса наличия игрока в сети (онлайн или офлайн).
-
-
-  
+- Код смотри в скрипте DragonPicker
+![image](https://github.com/Snoubort/Game-Sevases-Lab6/blob/main/MatForReadMe/PlayerOnline.PNG)
 
 ## Задание 3
 ### Предложить наиболее подходящий на ваш взгляд способ монетизации игры D.Picker. Дать развернутый ответ с комментариями.
